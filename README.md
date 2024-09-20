@@ -32,7 +32,7 @@ Follow these steps to create your own PIAIC card:
 
 ### 1. Run the Python Code on Google Colab
 Open Google Colab.
-Upload the piaic_card_generator.ipynb file into your Colab notebook.
+Upload the PIAIC-CARD.ipynb file into your Colab notebook.
 Run all cells to generate your PIAIC card.
 
 ### 2. Edit Personal Details
