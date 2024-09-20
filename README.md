@@ -76,6 +76,7 @@ Course Details: Change the course details to reflect your program of study.
 
 ### 🎥 Demo
 Check out the quick tutorial file on how to generate your PIAIC card using Python in Colab:
+[Card Code](https://github.com/wajahattt-dot/PIAIC_CARD_Assignment/blob/main/PIAIC-CARD.ipynb)
 
 
 ## 📞 Contact
